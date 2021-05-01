@@ -48,7 +48,4 @@ The genuine claims may also be treated with suspicion sometimes.
 - <font color=blue>High number of columns in comparison to number of data present</font>
 - <font color=blue>Handling multi labelled categorical columns</font>
 
-#### Non-technical
-- <font color=blue>The challenge behind fraud detection is that frauds are far less common as compared to legit insurance claims</font>
-
 ### Conclusion
